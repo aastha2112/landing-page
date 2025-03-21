@@ -61,7 +61,7 @@ Feel free to fork this repository and submit pull requests. If you encounter iss
 
 For inquiries, reach out via:
 
-- Email: aasthalakhanpal11@ygmail.com
+- Email: aasthalakhanpal11@gmail.com
 - Social Media: [LinkedIn](#) | [Twitter](#)
 
 ---
